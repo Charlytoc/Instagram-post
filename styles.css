@@ -1,0 +1,47 @@
+body {
+    background-color: rgba(0, 0, 0, 0.774);
+    width: 50%;
+    margin: 10% auto;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    }
+
+#postcard {
+    background-color: white;
+    width: 60%;
+    margin: 10px auto;
+}
+#border {
+    background-color: black;
+    width: 90%;
+    padding: 5% 1%;
+}
+#div2 {
+    margin-top: 0%;
+}
+#html5logo {
+    float: left;
+    font-size: 23px;
+    padding-right: 5px;
+    padding-top: 2px;
+}
+#puntitos {
+    float: right;
+    font-size: 26px;
+}
+#rigoberto {
+    display: inline;}
+
+#div1 {
+    padding: 8px;
+}
+#div4 {
+    padding: 8px;
+}
+#div3 {
+    padding: 8px;
+    font-size: 28px;
+}
+#bookmark {
+    float: right;
+}
